@@ -1,3 +1,2 @@
 line one for f3
 line two for f3
-line three for f3
